@@ -1,4 +1,4 @@
-function wrightData() {
+function writeData() {
   const sheet = SpreadsheetApp.getActiveSheet();
   let data = [
     [1, 2, 3],
@@ -8,4 +8,5 @@ function wrightData() {
   ];
 
   sheet.getRange(1, 1, 4, 3).setValues(data)
+  Logger.log(kuma.myFunction())
 }

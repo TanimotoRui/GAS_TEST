@@ -1,7 +1,15 @@
 {
   "timeZone": "Asia/Tokyo",
-  "dependencies": {
-  },
   "exceptionLogging": "STACKDRIVER",
-  "runtimeVersion": "V8"
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "kuma",
+        "version": "0",
+        "libraryId": "1HyhzycaiRSakZDlfP6F4IxFeJ2VLGn2pwILfjH_IwSq_cBdKFiGI8NGZ",
+        "developmentMode": true
+      }
+    ]
+  }
 }
