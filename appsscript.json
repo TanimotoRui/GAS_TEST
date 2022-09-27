@@ -6,8 +6,8 @@
     "libraries": [
       {
         "userSymbol": "kuma",
-        "version": "0",
         "libraryId": "1HyhzycaiRSakZDlfP6F4IxFeJ2VLGn2pwILfjH_IwSq_cBdKFiGI8NGZ",
+        "version": "0",
         "developmentMode": true
       }
     ]
